@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595131949 source:c:\users\user\cursologicadeprogramacao\linguagem_c\estrututaenquanto_while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
