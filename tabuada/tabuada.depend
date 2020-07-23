@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595546680 source:c:\users\user\cursologicadeprogramacao\linguagem_c\tabuada\main.c
+	<stdio.h>
+	<math.h>
+
